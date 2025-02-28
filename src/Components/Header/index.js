@@ -7,7 +7,6 @@ import UserAndCartBox from "./UserAndCartBox";
 import Navigation from "./Navigation";
 
 
-
 const Header = () => {
   return (
     <>
